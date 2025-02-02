@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;    
+}
+.heading{
+    color: blanchedalmond;
+    background: black;
+    text-align: center;
+    padding: 20px;
+}
+.food{
+    display:flex;
+    margin:10px;
+    justify-content: center;
+    text-align: center;
+ }
+.food img{
+    width:200px;
+    height: 150px;
+}
+.food_1,.food_2,.food_3,.food_4{
+    border: solid black 1px;
+    width: 250px;
+    margin-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.food button{
+    background-color: black;
+    color:white;
+    padding: 2px;
+}
+
+
+.contact{
+    text-align: center;
+    padding: 20px;
+    background: black;
+    color: beige;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.but{
+    width: 400px;
+    background: red;
+}
+
